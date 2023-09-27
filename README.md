@@ -25,7 +25,9 @@ Digital Humanities student 📚 | Exploring the world of NLP with NLTK and SpaCy
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/cristinamatacuta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristinamatacuta&stroke=ffffff&background=831843&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/cristinamatacuta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristinamatacuta&stroke=ffffff&background=831843&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/cristinamatacuta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cristinamatacuta&bg_color=831843&color=ffffff&line=ffffff&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>user=cristinamatacuta&stroke=ffffff&background=831843&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/cristinamatacuta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cristinamatacuta&bg_color=831843&color=ffffff&line=ffffff&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
