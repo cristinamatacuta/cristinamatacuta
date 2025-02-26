@@ -5,8 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | Exploring the world of NLP with NLTK and SpaCy 💬 | Python enthusiast 🐍 | Excited about the intersection of technology and language 🌐 | Let's collaborate and unravel the mysteries of human communication! 👩‍💻
 
 * 🌍  I'm based in Gothenburg, Sweden
-* ✉️  You can contact me at [cm222zr@student.lnu.se](mailto:cm222zr@student.lnu.se)
-* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on  research projects that leverage technology and language.
 * ⚡  I'm an advocate for the fusion of technology and culture, and I'm continually exploring how programming languages like Python can be a bridge between the two. 
 ### Skills
