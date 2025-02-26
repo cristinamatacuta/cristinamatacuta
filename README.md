@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 # 💫 About Me:
-🔍 Looking to collaborate on: Cool NLP projects, dialogue systems, machine learning, and anything that mixes tech with language. I’m all about pushing boundaries and building innovative solutions!<br><br>💬 Ask me about: My transition from linguistics to tech, my multilingual projects (currently diving into Arabic Dialogue Systems!), and how I’m building personalized recommendation systems.<br><br>🎉 Fun fact: I’m fluent in Spanish and always up for a challenge when it comes to multilingual NLP
+🔍 Looking to collaborate on: Cool NLP projects, dialogue systems, machine learning, and anything that mixes tech with language. I’m all about pushing boundaries and building innovative solutions!<br><br>💬 Ask me about: My transition from linguistics to tech
+recommendation systems.<br><br>🎉 Fun fact: I’m fluent in Spanish and always up for a challenge when it comes to multilingual NLP
 
 
 ## 🌐 Socials:
